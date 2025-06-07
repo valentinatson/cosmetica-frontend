@@ -164,7 +164,7 @@ const produits = ref([
   background: #faf7f8;
   border-radius: 10px;
   box-shadow: 0 1px 4px rgba(0,0,0,0.06);
-  padding: 1.5rem 1.2rem;
+  padding: 0.7rem 0.5rem;
   width: 210px;
   text-align: center;
   transition: box-shadow 0.2s;
