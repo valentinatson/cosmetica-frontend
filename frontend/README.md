@@ -1,29 +1,55 @@
-# frontend
+# Cosmetica
 
-This template should help get you started developing with Vue 3 in Vite.
+Bienvenue sur le projet **Cosmetica** : une boutique en ligne de produits cosmétiques réalisée avec Vue 3 et Vite.
 
-## Recommended IDE Setup
+## Description
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Ce projet propose une interface moderne et responsive pour découvrir, consulter et contacter une boutique spécialisée dans les produits cosmétiques naturels et innovants.  
+Vous y trouverez une page d’accueil, une page produits, une page à propos et une page contact, ainsi qu’une navigation fluide grâce à Vue Router.
 
-## Customize configuration
+## Fonctionnalités
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Navigation entre les pages : Accueil, Produit, À propos, Contact
+- Présentation de produits cosmétiques avec images, descriptions et prix
+- Formulaire de contact fonctionnel
+- Design responsive adapté à tous les écrans
+- Footer avec informations de contact
 
-## Project Setup
+## Installation
 
-```sh
-npm install
-```
+1. Clonez le dépôt :
+   ```sh
+   git clone <url-du-repo>
+   cd frontend
+   ```
+2. Installez les dépendances :
+   ```sh
+   npm install
+   ```
 
-### Compile and Hot-Reload for Development
+## Lancement du projet
 
+Pour démarrer le serveur de développement :
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Structure du projet
 
-```sh
-npm run build
-```
+- `src/components` : Composants Vue (Navbar, Footer, Acceuil, Produit, Apropos, Contact)
+- `src/router` 
+- `src/App.vue` : Composant principal
+
+## Dépendances principales
+
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Vue Router](https://router.vuejs.org/) (pour la navigation)
+
+## Auteur
+
+
+
+---
+
+&copy; 2025 Cosmetica. Tous droits réservés.
