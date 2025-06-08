@@ -72,6 +72,7 @@ import heroBanner from '../assets/images/hero-banner-1.jpg';
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   color: #333;
   font-family: 'Urbanist', sans-serif;
+  padding-bottom: 1rem;
 }
 
 /* Bannière */
